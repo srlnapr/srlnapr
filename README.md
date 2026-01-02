@@ -22,7 +22,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-I am a <b>Computer Science student</b> at Telkom University Purwokerto and a <b>scholarship awardee</b> with a passion for bridging Design and Technology. Currently active as a <b>Core Team Member at GDGOC Indonesia</b>, specifically in the AI Division.
+I am a <b>Informatics student</b> at Telkom University Purwokerto and a <b>scholarship awardee</b> with a passion for bridging Design and Technology. Currently active as a <b>Core Team Member at GDGOC Indonesia</b>, specifically in the AI Division.
 
 - 🔭 **Current Focus:** Developing curriculum and mentoring about Artificial Intelligence.
 - 🎨 **Creative Side:** Experienced in UI/UX and Graphic Design (Figma, Adobe, Canva).
